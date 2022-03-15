@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Odai
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Odai
 #### Software Developer
 I'm Odai from Germany, and i write and develop PC Programms. I really enjoy learning languages and frameworks like Java, Maven and Springboot, as well as learn C#. I also enjoy doing design in general.
 
