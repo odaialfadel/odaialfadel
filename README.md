@@ -3,7 +3,7 @@
 #### Software Developer
 I'm Odai from Germany, and i write and develop PC Programms. I really enjoy learning languages and frameworks like Java, Maven and Springboot, as well as learn C#. I also enjoy doing design in general.
 
-Skills: Java / Maven / C# / XML / JSON
+Skills: Java / Maven / Swing / C# / XML / JSON / SQL Developer or MySql
 
 - 🌱 I’m currently learning Java 
 
