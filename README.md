@@ -18,8 +18,4 @@ Skills: Java / Maven / Swing / C# / XML / JSON / SQL Developer or MySql
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=odaialfadel&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=odaialfadel)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=odaialfadel)  
-
 ![Profile views](https://gpvc.arturio.dev/odaialfadel)  
