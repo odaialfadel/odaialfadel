@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Odai
 #### Software Developer
-I'm Odai from Germany, i write and develop PC Programms. I really enjoy learning languages and frameworks like Java, Maven and Springboot, as well as learn C#. I also enjoy doing design in general.
+I'm Odai from Germany, i write and develop PC Programms. I really enjoy learning languages and frameworks like Java, Maven and Springboot, as well as learn C# Programming language. I also enjoy doing design in general.
 
 Skills: Java / Maven / Swing / C# / XML / JSON / SQL Developer or MySql also in OOP / OOA / UML-Diagram / Design Pattern like MVC / SOLID-Princips too like Open-Closed princip 
 
