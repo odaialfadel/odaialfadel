@@ -5,19 +5,20 @@ I’m a Software Engineer with 3+ years of professional experience in Java devel
 
 💻 Tech Focus
 
-- Backend: Java 17/21, Spring Boot, JPA/Hibernate, REST APIs
+- Backend: Java 17/21, Spring, JPA/Hibernate, REST APIs
 
-- Databases: Oracle, PostgreSQL, SQL
+- Databases: Oracle, PostgreSQL, SqlLite
 
 - Authentication: Keycloak, OAuth2, JWT
 
-- Cloud & DevOps: AWS (S3, SES, ECR), Docker, GitLab CI/CD, GitHub Actions
+- Cloud & DevOps: AWS (S3, SES, ECR), Docker, Kubernetes, GitLab CI/CD, GitHub Actions
 
 - Frontend: Angular (first professional experience), Swing (legacy systems)
 
 - Software Engineering: Microservices, OOP, SOLID Principles, UML, Design Patterns (MVC, Singleton, Open-Closed)
 
 - Testing: JUnit, Integration Tests, Test Automation, Mokito, Testcontainers
+
 
 
 🌱 Currently expanding my expertise in cloud-native development, DevOps practices, and Angular
