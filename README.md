@@ -1,11 +1,26 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### My name is Odai
-#### Software Developer
-I'm Odai from Germany, i write and develop PC Programms. I really enjoy learning languages and frameworks like Java, Maven and Springboot, as well as learn C# Programming language. I also enjoy doing design in general.
+#### Software Engineer | Java & Cloud Enthusiast
+I’m a Software Engineer with 3+ years of professional experience in Java development. My focus is on building scalable backend systems and microservice architectures. I enjoy working with modern frameworks, designing clean architectures, and delivering high-quality, testable code.
 
-Skills: Java / Maven / Swing / C# / XML / JSON / SQL Developer or MySql also in OOP / OOA / UML-Diagram / Design Pattern like MVC / SOLID-Princips too like Open-Closed princip 
+💻 Tech Focus
 
-- 🌱 I’m currently learning Java 
+- Backend: Java 17/21, Spring Boot, JPA/Hibernate, REST APIs
+
+- Databases: Oracle, PostgreSQL, SQL
+
+- Authentication: Keycloak, OAuth2, JWT
+
+- Cloud & DevOps: AWS (S3, SES, ECR), Docker, GitLab CI/CD, GitHub Actions
+
+- Frontend: Angular (first professional experience), Swing (legacy systems)
+
+- Software Engineering: Microservices, OOP, SOLID Principles, UML, Design Patterns (MVC, Singleton, Open-Closed)
+
+- Testing: JUnit, Integration Tests, Test Automation, Mokito, Testcontainers
+
+
+🌱 Currently expanding my expertise in cloud-native development, DevOps practices, and Angular
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/odaialfadel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/odai-al-fadel-8100501a7/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14850731) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='Discord' height='40'>](https://discord.gg/user/Odai#5013)  
