@@ -15,7 +15,3 @@ Skills: Java / Maven / Swing / C# / XML / JSON / SQL Developer or MySql also in 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=odaialfadel)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=odaialfadel&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/odaialfadel)  
