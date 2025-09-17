@@ -11,9 +11,9 @@ I’m a Software Engineer with 3+ years of professional experience in Java devel
 
 - Authentication: Keycloak, OAuth2, JWT
 
-- Cloud & DevOps: AWS (S3, SES, ECR), Docker, Kubernetes, GitLab CI/CD, GitHub Actions
+- Cloud & DevOps: AWS (S3, SES, ECR), Docker, GitLab CI/CD, GitHub Actions
 
-- Frontend: Angular (first professional experience), Swing (legacy systems)
+- Frontend: Angular (first professional experience), Java Swing und FX (legacy systems)
 
 - Software Engineering: Microservices, OOP, SOLID Principles, UML, Design Patterns (MVC, Singleton, Open-Closed)
 
